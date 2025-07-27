@@ -1,3 +1,5 @@
+![Metrics](/github-metrics.svg)
+
 # 💫 About Me
 
 - 🧑‍💻 Student Software Developer  
