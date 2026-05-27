@@ -512,7 +512,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pioner92/react-native-ultra-base64</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚡ The fastest base64 encoding/decoding library for React Native. Up to 10x faster with optimized C++ and JSI bindings.</div>
@@ -565,7 +565,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>trpc/trpc</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.</div>
@@ -618,7 +618,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CloakHQ/CloakBrowser</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.</div>
@@ -668,7 +668,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2026, 21:55:44 (timezone Europe/Amsterdam) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 27 May 2026, 23:42:39 (timezone Europe/Amsterdam) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
