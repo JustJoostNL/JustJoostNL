@@ -512,7 +512,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>robinebers/openusage</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.</div>
@@ -565,7 +565,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gmi-software/react-native-better-maps</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Faster, typed maps for React Native, built on Nitro Modules</div>
@@ -668,7 +668,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jul 2026, 22:11:16 (timezone Europe/Amsterdam) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 10 Jul 2026, 23:48:31 (timezone Europe/Amsterdam) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
