@@ -508,7 +508,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mercuretechnologies/expo-open-ota</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source self-hosted server implementing the Expo Updates protocol, built for production. Multi-app dashboard, progressive rollouts, instant rollbacks, served from your own bucket and CDN.</div>
@@ -664,7 +664,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2026, 00:44:06 (timezone Europe/Amsterdam) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 21 Jul 2026, 01:44:58 (timezone Europe/Amsterdam) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
